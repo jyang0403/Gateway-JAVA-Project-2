@@ -1,1 +1,2 @@
-# Gateway-JAVA-Project-2
+# Project 2
+Manipulating text using custom functions
